@@ -1,0 +1,10 @@
+This week,I learned the basics of Linux,Git,GitHub.I learned how to navigate
+directories,create and delete files and folders,view and edit file contents,
+and use commands such as ls,pwd,cd,mkdir,touch,cat, and rm.I also learned the
+fundamentals of Git,including initializing a repository,checking status,staging
+and commiting changes,creating branches,switching between branches and merging
+changes.
+Additionally, I understood how to connect a local repository to GitHub and push 
+code to a remote repositry.Overall,this week helped me to build a strong
+foundation in Linux Commands and version control,which are important skills 
+in DevOps

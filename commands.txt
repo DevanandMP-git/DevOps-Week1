@@ -1,0 +1,20 @@
+1)pwd-Current Working Directory
+2)ls-list the files and directories
+3)cd-Used to change the directory
+4)mkdir-used to create a new directory
+5)rmdir-used to delete a directory
+6)rm-used to delete a file
+7)cp-Used to copy file contents to another file
+8)rm -rf - forcefully delete files and directories
+9)grep - Search a specific word in files
+10)free -m -Check Memory Usage
+11)clear- used to clear the screen
+12)echo-Used to display text or write a text into a file
+13)touch-used to create a File
+14)whoami-Displays the current user
+15)cal-Displays the calender
+16)rm-used to remove files
+17)cat-used to display the contents of a file
+18)ls -l -List the files and directories with permission
+19)chmod-change the file and directories permission
+20)mv-move and rename the contents of a file or directory
