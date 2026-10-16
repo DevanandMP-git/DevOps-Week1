@@ -7,4 +7,4 @@ changes.
 Additionally, I understood how to connect a local repository to GitHub and push 
 code to a remote repositry.Overall,this week helped me to build a strong
 foundation in Linux Commands and version control,which are important skills 
-in DevOps
+in DevOps.This week i learned Git branching and Merging
